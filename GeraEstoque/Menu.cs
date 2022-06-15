@@ -15,12 +15,16 @@ public class Menu
     Console.WriteLine("4  Excluir produto");
     Console.WriteLine("0  Sair");
 
-    Console.WriteLine();
+    Console.WriteLine(string.Empty);
 
     Console.Write("Digite a opção: ");
 
-    Console.ReadLine();
+    switch (int.Parse(Console.ReadLine()))
+    {
+      case 1: Cadastro.CadastrarProduto(); break;
 
+      default: Show(); break;
+    }
 
   }
 }
