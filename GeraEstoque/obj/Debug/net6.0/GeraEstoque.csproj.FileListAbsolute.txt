@@ -1,0 +1,15 @@
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S2\DevInHouse-M2-S02\GeraEstoque\bin\Debug\net6.0\GeraEstoque.exe
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S2\DevInHouse-M2-S02\GeraEstoque\bin\Debug\net6.0\GeraEstoque.deps.json
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S2\DevInHouse-M2-S02\GeraEstoque\bin\Debug\net6.0\GeraEstoque.runtimeconfig.json
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S2\DevInHouse-M2-S02\GeraEstoque\bin\Debug\net6.0\GeraEstoque.dll
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S2\DevInHouse-M2-S02\GeraEstoque\bin\Debug\net6.0\GeraEstoque.pdb
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S2\DevInHouse-M2-S02\GeraEstoque\obj\Debug\net6.0\GeraEstoque.csproj.AssemblyReference.cache
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S2\DevInHouse-M2-S02\GeraEstoque\obj\Debug\net6.0\GeraEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S2\DevInHouse-M2-S02\GeraEstoque\obj\Debug\net6.0\GeraEstoque.AssemblyInfoInputs.cache
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S2\DevInHouse-M2-S02\GeraEstoque\obj\Debug\net6.0\GeraEstoque.AssemblyInfo.cs
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S2\DevInHouse-M2-S02\GeraEstoque\obj\Debug\net6.0\GeraEstoque.csproj.CoreCompileInputs.cache
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S2\DevInHouse-M2-S02\GeraEstoque\obj\Debug\net6.0\GeraEstoque.dll
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S2\DevInHouse-M2-S02\GeraEstoque\obj\Debug\net6.0\refint\GeraEstoque.dll
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S2\DevInHouse-M2-S02\GeraEstoque\obj\Debug\net6.0\GeraEstoque.pdb
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S2\DevInHouse-M2-S02\GeraEstoque\obj\Debug\net6.0\GeraEstoque.genruntimeconfig.cache
+C:\Users\coelh\OneDrive\Desktop\DEVinHouse NDD\exercícios\Modulo2\S2\DevInHouse-M2-S02\GeraEstoque\obj\Debug\net6.0\ref\GeraEstoque.dll
