@@ -26,7 +26,22 @@ public class Cadastro
     uint valorCompra = Convert.ToUInt32(Console.ReadLine());
     Console.Write("Digite o valor de venda: ");
     uint valorVenda = Convert.ToUInt32(Console.ReadLine());
+    var id = Guid.NewGuid();
+
+    Console.Clear();
+
+    Console.WriteLine("Produto cadastrado com sucesso!");
+    Console.WriteLine("======================");
+    Console.WriteLine(string.Empty);
+
+    Console.WriteLine($"ID: {id}");
+    Console.WriteLine($"Nome: {nomeProduto}");
+    Console.WriteLine($"Qtd: {quantidadeEstoque}");
+    Console.WriteLine($"R$ Compra: R${valorCompra}");
+    Console.WriteLine($"R$ Venda: R${valorVenda}");
+
     Console.ReadLine();
+
     Console.Clear();
     Environment.Exit(0);
   }
