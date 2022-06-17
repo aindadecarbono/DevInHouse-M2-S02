@@ -40,9 +40,9 @@ public class Cadastro
     Console.WriteLine($"R$ Compra: R${valorCompra}");
     Console.WriteLine($"R$ Venda: R${valorVenda}");
 
-    Console.ReadLine();
-
-    Console.Clear();
-    Environment.Exit(0);
+    Console.WriteLine(string.Empty);
+    Console.WriteLine("Pressione qualquer tecla para voltar ao menu principal");
+    Console.ReadKey();
+    MenuInicial.Menu();
   }
 }

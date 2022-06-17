@@ -1,8 +1,9 @@
 namespace GeraEstoque;
 
-public class Menu
+public class MenuInicial
 {
-  public static void Show()
+
+  public static void Menu()
   {
 
     Console.Clear();
@@ -21,11 +22,18 @@ public class Menu
 
     switch (Console.ReadLine())
     {
-      case "1": Cadastro.CadastrarProduto(); break;
-
       case "0": Console.Clear(); Environment.Exit(0); break;
 
-      default: Show(); break;
+      case "1": Cadastro.CadastrarProduto(); break;
+
+      case "2": Menu(); break;
+
+      case "3": Menu(); break;
+
+      case "4": Menu(); break;
+
+
+      default: Menu(); break;
     }
 
   }
