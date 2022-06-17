@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\coelh\\OneDrive\\Desktop\\DEVinHouse NDD\\exercícios\\Modulo2\\S2\\DevInHouse-M2-S02\\GeraEstoque\\GeraEstoque.csproj",
+      "projectUniqueName": "C:\\Users\\coelh\\OneDrive\\Desktop\\DEVinHouse NDD\\exercícios\\Modulo2\\S2\\DevInHouse-M2-S02(1)\\DevInHouse-M2-S02\\GeraEstoque\\GeraEstoque.csproj",
       "projectName": "GeraEstoque",
-      "projectPath": "C:\\Users\\coelh\\OneDrive\\Desktop\\DEVinHouse NDD\\exercícios\\Modulo2\\S2\\DevInHouse-M2-S02\\GeraEstoque\\GeraEstoque.csproj",
+      "projectPath": "C:\\Users\\coelh\\OneDrive\\Desktop\\DEVinHouse NDD\\exercícios\\Modulo2\\S2\\DevInHouse-M2-S02(1)\\DevInHouse-M2-S02\\GeraEstoque\\GeraEstoque.csproj",
       "packagesPath": "C:\\Users\\coelh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\coelh\\OneDrive\\Desktop\\DEVinHouse NDD\\exercícios\\Modulo2\\S2\\DevInHouse-M2-S02\\GeraEstoque\\obj\\",
+      "outputPath": "C:\\Users\\coelh\\OneDrive\\Desktop\\DEVinHouse NDD\\exercícios\\Modulo2\\S2\\DevInHouse-M2-S02(1)\\DevInHouse-M2-S02\\GeraEstoque\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\coelh\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -19,9 +19,11 @@ public class Menu
 
     Console.Write("Digite a opção: ");
 
-    switch (int.Parse(Console.ReadLine()))
+    switch (Console.ReadLine())
     {
-      case 1: Cadastro.CadastrarProduto(); break;
+      case "1": Cadastro.CadastrarProduto(); break;
+
+      case "0": Console.Clear(); Environment.Exit(0); break;
 
       default: Show(); break;
     }
