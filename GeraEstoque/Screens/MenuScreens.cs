@@ -13,6 +13,7 @@ public static class MenuScreens
     Console.WriteLine("2  Consultar produto");
     Console.WriteLine("3  Modificar produto");
     Console.WriteLine("4  Excluir produto");
+    Console.WriteLine("5  Listar todos os produtos");
     Console.WriteLine("0  Sair");
 
     Console.WriteLine(string.Empty);
