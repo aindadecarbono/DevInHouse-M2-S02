@@ -1,8 +1,9 @@
+using GeraEstoque.Repositories;
 namespace GeraEstoque.Screens;
 
 public static class CriarProdutoScreen
 {
-  public static void Iniciar()
+  public static void Iniciar(ProdutoRepository produtoRepository)
   {
 
     IniciaConsole();
@@ -26,7 +27,7 @@ public static class CriarProdutoScreen
       uint valorCompra = Convert.ToUInt32(Console.ReadLine());
       Console.Write("Digite o valor de venda: ");
       uint valorVenda = Convert.ToUInt32(Console.ReadLine());
-      var id = Guid.NewGuid();
+      Guid id = Guid.NewGuid();
 
       Console.Clear();
 
@@ -44,6 +45,15 @@ public static class CriarProdutoScreen
       Console.WriteLine("Pressione qualquer tecla para voltar ao menu principal");
       Console.ReadKey();
 
+      ProdutoRepository produtoRepository = new ProdutoRepository();
+      produtoRepository.Produtos.Add(nomeProduto);
+      produtoRepository.Produtos.Add(quantidadeEstoque.ToString());
+      produtoRepository.Produtos.Add(valorCompra.ToString());
+      produtoRepository.Produtos.Add(valorVenda.ToString());
+      produtoRepository.Produtos.Add(id.ToString());
+
     }
+
+
   }
 }

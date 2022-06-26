@@ -1,8 +1,9 @@
+using GeraEstoque.Repositories;
 namespace GeraEstoque.Screens;
 
 public static class MenuScreens
 {
-  public static void Iniciar()
+  public static void Iniciar(ProdutoRepository produtoRepository)
   {
     Console.Clear();
 
@@ -22,13 +23,13 @@ public static class MenuScreens
     {
       case "0": Console.Clear(); Environment.Exit(0); break;
 
-      case "1": CriarProdutoScreen.Iniciar(); Iniciar(); break;
+      case "1": CriarProdutoScreen.Iniciar(produtoRepository); Iniciar(produtoRepository); break;
 
-      case "2": Iniciar(); break;
+      case "2": Iniciar(produtoRepository); break;
 
-      case "3": Iniciar(); break;
+      case "3": Iniciar(produtoRepository); break;
 
-      case "4": Iniciar(); break;
+      case "4": Iniciar(produtoRepository); break;
 
       default: Environment.Exit(0); break;
     }
